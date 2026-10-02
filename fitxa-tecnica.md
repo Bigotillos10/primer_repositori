@@ -40,3 +40,5 @@ Crear una guia d'aquesta fitxa tecnica
 ## Recursos
 
 - [Documentació consultada](https://github.com/SMX-ProjecteIntermodular/Projecte2/blob/main/guies/02-comandes-git.md)
+
+git status
